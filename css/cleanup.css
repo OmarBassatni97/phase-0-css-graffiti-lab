@@ -1,1 +1,18 @@
 /* write your override styles here */
+#wall .tag-1 {
+  border: solid red 10px;
+  border-radius: 50%;
+  background-color: aqua;
+}
+#wall .tag-2 {
+  background-color: aquamarine;
+  border-radius: 10;
+}
+#wall .tag-3 {
+  border: solid red 10px;
+  border-radius: 50%;
+  background-color: aqua;
+}
+#wall .tag-4 {
+  display: none;
+}
